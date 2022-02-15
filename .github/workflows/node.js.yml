@@ -15,7 +15,7 @@ jobs:
         env:
           MY_VAR: Sup! my name is 
           FIRST_NAME: Jer
-          MIDDLE_NAME: Michael
+          MIDDLE_NAME: Michael 
           LAST_NAME: Crowell
         run: |
           echo $MY_VAR $FIRST_NAME $MIDDLE_NAME $LAST_NAME.
